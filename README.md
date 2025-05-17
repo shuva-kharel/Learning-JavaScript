@@ -62,7 +62,8 @@ Learning-JavaScript/
 
 ## ✅ My Goals
 
-- [x] Complete the full course
+- [ ] Complete the full course
+- [ ] Be ready for Node.js
 
 ---
 
