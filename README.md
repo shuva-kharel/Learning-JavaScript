@@ -1,6 +1,6 @@
 # 📘 Learning JavaScript
 
-Welcome to my personal JavaScript learning journey! 🚀  
+Welcome to my personal JavaScript learning journey! 🚀
 This repository follows the **[JavaScript Full Course (2022)](https://www.youtube.com/watch?v=jS4aFq5-91M)** by **freeCodeCamp.org**, a comprehensive 8-hour tutorial that covers everything from basics to advanced topics in JavaScript.
 
 ---
@@ -33,17 +33,8 @@ This repository follows the **[JavaScript Full Course (2022)](https://www.youtub
 
 ```bash
 Learning-JavaScript/
-├── 01-Variables-And-DataTypes/
-├── 02-Operators-And-Expressions/
-├── 03-Conditionals/
-├── 04-Loops/
-├── 05-Functions/
-├── 06-Arrays-And-Objects/
-├── 07-DOM-Manipulation/
-├── 08-Events/
-├── 09-ES6-Features/
-├── 10-Async-JS-And-APIs/
-├── 11-OOP-And-Prototypes/
+├── 01-Passenger_Counter_App/
+├── 02-Race_Timer/
 └── README.md
 ```
 
