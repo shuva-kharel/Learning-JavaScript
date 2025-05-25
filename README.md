@@ -63,7 +63,7 @@ Learning-JavaScript/
 Wanna learn with me? Fork the repo, clone it, and let’s grow together!
 
 ```bash
-git clone https://github.com/your-username/Learning-JavaScript.git
+git clone https://github.com/shuva-kharel/Learning-JavaScript.git
 cd Learning-JavaScript
 ```
 
