@@ -1,31 +1,28 @@
 # 📘 Learning JavaScript
 
 Welcome to my personal JavaScript learning journey! 🚀
-This repository follows the **[JavaScript Full Course (2022)](https://www.youtube.com/watch?v=jS4aFq5-91M)** by **freeCodeCamp.org**, a comprehensive 8-hour tutorial that covers everything from basics to advanced topics in JavaScript.
+This repository follows the **[JavaScript - The Complete Guide 2024 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2024-beginner-advanced/)** by **Academind** on Udemy, a comprehensive tutorial covering everything from basics to advanced JavaScript concepts.
 
 ---
 
 ## 📺 Course Info
 
-- **YouTube Link:** [JavaScript Full Course - freeCodeCamp](https://www.youtube.com/watch?v=jS4aFq5-91M)
-- **Instructor:** Beau Carnes
-- **Duration:** ~8 hours
+- **Udemy Link:** [JavaScript - The Complete Guide 2024](https://www.udemy.com/course/javascript-the-complete-guide-2024-beginner-advanced/)
+- **Instructor:** Maximilian Schwarzmüller (Academind)
+- **Duration:** ~50 hours (full in-depth course)
 - **Topics Covered:**
-  - Variables & Data Types
-  - Operators
-  - Conditional Statements
-  - Loops
-  - Functions
+  - JavaScript Basics & Syntax
+  - Variables, Data Types & Operators
+  - Control Flow & Loops
+  - Functions & Arrow Functions
   - Arrays & Objects
-  - DOM Manipulation
-  - Events
-  - Error Handling
-  - JSON & Local Storage
-  - `setTimeout`, `setInterval`
-  - ES6+ Features
-  - Fetch API & Promises
-  - Async/Await
-  - Prototypes & OOP
+  - DOM Manipulation & Events
+  - Error Handling & Debugging
+  - ES6+ Features (Destructuring, Spread, Modules)
+  - Asynchronous JavaScript (Callbacks, Promises, Async/Await)
+  - JavaScript Classes & OOP
+  - Working with APIs & Fetch
+  - Node.js Introduction & Backend Basics
 
 ---
 
@@ -33,12 +30,20 @@ This repository follows the **[JavaScript Full Course (2022)](https://www.youtub
 
 ```bash
 Learning-JavaScript/
-├── 01-Passenger_Counter_App/
-├── 02-Race_Timer/
+├── 01-Basics/
+├── 02-Control_Flow/
+├── 03-Functions/
+├── 04-Objects_Arrays/
+├── 05-DOM_Manipulation/
+├── 06-Events/
+├── 07-Asynchronous_JS/
+├── 08-ES6_Features/
+├── 09-Advanced_JS/
+├── 10-NodeJS_Basics/
 └── README.md
 ```
 
-> Each folder contains code examples and exercises based on the course section.
+> Each folder contains code examples and exercises based on the course sections.
 
 ---
 
@@ -53,8 +58,8 @@ Learning-JavaScript/
 
 ## ✅ My Goals
 
-- [ ] Complete the full course
-- [ ] Be ready for Node.js
+- [ ] Complete the full Udemy course
+- [ ] Be confident with both frontend JS and Node.js backend basics
 
 ---
 
@@ -77,6 +82,6 @@ cd Learning-JavaScript
 
 ## 🌟 Acknowledgements
 
-Big thanks to [freeCodeCamp.org](https://www.freecodecamp.org/) for this amazing course!
+Big thanks to [Academind](https://academind.com/) and Udemy for this amazing course!
 
 ---
